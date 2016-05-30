@@ -1,0 +1,22 @@
+{
+  "name": "chata",
+  "version": "0.0.1",
+  "description": "simple chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergueyarellano/chata.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "serguey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergueyarellano/chata/issues"
+  },
+  "homepage": "https://github.com/sergueyarellano/chata#readme"
+}
